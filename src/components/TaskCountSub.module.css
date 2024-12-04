@@ -1,0 +1,12 @@
+.TaskCountSub {
+  width: 14%;
+  height: 75px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #dbd2e0;
+  font-family: "Roboto Condensed";
+  border-radius: 15px;
+}

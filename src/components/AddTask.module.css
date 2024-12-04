@@ -1,0 +1,89 @@
+.container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+.AddTaskComp {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-left: 5px;
+  width: 70%;
+  height: 92%;
+  padding: 10px;
+  border-radius: 15px;
+  border: 1px solid #dbd2e0;
+  margin-top: 5px;
+}
+
+.taskTitle {
+  background-color: #404044;
+  width: 80%;
+  height: 10px;
+  outline: none;
+  border: none;
+  border-radius: 20px;
+  padding: 15px;
+  font-size: 1rem;
+  color: #dbd2e0;
+  font-family: "Roboto Condensed";
+  margin-bottom: 20px;
+  border: 2px solid #dbd2e0;
+}
+
+.taskDesc {
+  background-color: #404044;
+  width: 90%;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  font-family: "Roboto Condensed";
+  font-size: 1rem;
+  resize: vertical; /* Allows the user to resize the textarea vertically */
+  overflow-y: scroll;
+  color: #dbd2e0;
+  resize: none;
+  margin-bottom: 20px;
+  border: 2px solid #dbd2e0;
+}
+
+.taskDesc::-webkit-scrollbar {
+  width: 4px;
+}
+
+.taskDesc::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 10px;
+}
+
+.taskDesc::-webkit-scrollbar-thumb {
+  background: #dbd2e0;
+  border-radius: 10px;
+}
+
+.taskDate {
+  background-color: #404044;
+  color: #dbd2e0;
+  border: none;
+  outline: none;
+  width: 20%;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #dbd2e0;
+}
+
+.addTask_btns {
+  height: 35px;
+  background-color: #dbd2e0;
+  border: none;
+  outline: none;
+  color: black;
+  font-size: 0.8rem;
+  font-family: "Roboto Condensed";
+  width: 15%;
+  min-width: 10%;
+  border-radius: 5px;
+  padding: 3px;
+}

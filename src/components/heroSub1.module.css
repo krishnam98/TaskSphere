@@ -1,0 +1,41 @@
+.herosub1 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+.hs1_Date {
+  color: #6c6f7f;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  margin-left: 5px;
+}
+.hs1_name {
+  margin-left: 5px;
+  font-size: 4rem;
+  font-family: "sans-serif";
+  color: #f1f7ee;
+
+  background: linear-gradient(
+    90deg,
+    hsla(141, 54%, 86%, 1) 0%,
+    hsla(333, 73%, 85%, 1) 50%,
+    hsla(211, 58%, 79%, 1) 100%
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Media Query */
+@media (max-width: 962px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 748px) {
+  .hs1_name {
+    font-size: 3rem;
+  }
+}

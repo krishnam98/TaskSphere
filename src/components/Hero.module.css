@@ -1,0 +1,10 @@
+.hero {
+  background-color: #404044;
+  display: flex;
+  justify-content: space-between;
+  width: 98%;
+  height: fit-content;
+  padding: 5px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}

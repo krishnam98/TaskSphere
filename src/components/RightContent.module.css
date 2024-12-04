@@ -1,0 +1,10 @@
+.rightContent {
+  width: 60%;
+  /* border: 2px solid white; */
+}
+
+@media (max-width: 626px) {
+  .rightContent {
+    width: 100%;
+  }
+}

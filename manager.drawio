@@ -1,0 +1,84 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZZ6XBX5WWAlYk8fHN0BO" name="Page-1">
+        <mxGraphModel dx="3001" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="30" width="810" height="690" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="40" width="580" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="search Bar" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="55" width="280" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="55" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Add Task" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="590" y="55" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="10" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="860" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="740" y="50" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Profile" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="870" y="60" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="40" width="200" height="660" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Name" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="50" width="180" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="140" width="180" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Task Manager" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="150" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="View Report" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="200" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Social Handles" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="370" width="180" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Name Date" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="120" width="410" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="View Reports" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="120" width="140" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Today's Task&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="410" width="570" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="270" width="570" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Total Tasks" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="300" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Completed Task" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="445" y="300" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Due Task" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="300" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;TaskSphere&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="-160" width="330" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="29" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="DashBoard" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="-330" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
