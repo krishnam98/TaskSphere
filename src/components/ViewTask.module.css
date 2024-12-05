@@ -6,7 +6,7 @@
 .taskviewer {
   margin-top: 5px;
   border-radius: 15px;
-  padding: 20px;
+  padding: 15px; 
   width: 40%;
   height: 90%;
   margin-right: 10px;
@@ -40,7 +40,7 @@
 
 .taskDesc {
   background-color: #404044;
-  height: 20%;
+  height: 15%;
   width: 80%;
   padding: 10px;
   border: none;
@@ -51,7 +51,7 @@
   overflow-y: scroll;
   color: #dbd2e0;
   border: 2px solid #dbd2e0;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   margin-top: 10px;
 }
 
@@ -80,7 +80,7 @@
   color: #dbd2e0;
   text-align: center;
   font-family: "Roboto Condensed";
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .Control_btns_div {
@@ -137,3 +137,27 @@
   font-family: "Roboto Condensed";
   color: #dbd2e0;
 }
+
+/* Media Query */
+@media (max-width: 626px) {
+  .taskviewer {
+    width: 60%;
+  }
+  .taskDate {
+    width: 25%;
+  }
+  .Control_btns_div {
+    width: 30%;
+  }
+  .Control_btns {
+    width: 70%;
+  }
+  .Control_btns_disabled {
+    width: 70%;
+  }
+}
+
+@media (max-width: 372px) {
+  .taskDate {
+    width: 30%;
+  }
