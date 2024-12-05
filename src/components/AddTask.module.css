@@ -87,3 +87,14 @@
   border-radius: 5px;
   padding: 3px;
 }
+
+/*Media query  */
+
+@media (max-width: 626px) {
+  .AddTaskComp {
+    width: 100%;
+  }
+  .taskDate {
+    width: 25%;
+  }
+}
